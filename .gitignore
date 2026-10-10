@@ -1,0 +1,46 @@
+# ===== Unity generated =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# ===== IDE =====
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.suo
+*.pidb.meta
+
+# ===== Build artifacts / outputs =====
+webgl/
+tt-minigame/
+wasm_symbols/
+*.zip
+*.br
+*.unitypackage
+*.apk
+*.aab
+build.log
+
+# ===== WorkBuddy / local data =====
+.workbuddy/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Crashlytics / others =====
+crashlytics-build.properties
+sysinfo.txt
+
+# lowercase log dir
+log/

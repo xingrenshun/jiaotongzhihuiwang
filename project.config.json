@@ -1,0 +1,23 @@
+{
+  "appid": "tt29215f9cb63bbfaf07",
+  "projectname": "TrafficMaster1.0",
+  "unity": {
+    "build": {
+      "webgl": "F:\\new\\TrafficMaster2.0\\webgl_package-20260303_144523.zip",
+      "native": {
+        "il2cpp": "",
+        "apk": "",
+        "fullApk": ""
+      },
+      "instantGame": ""
+    },
+    "publishType": "2",
+    "starkSdkVersion": "Without StarkSDK",
+    "unityToolsVersion": null,
+    "unityEngineVersion": "2021.3.34f1c1",
+    "arch": "both"
+  },
+  "setting": {
+    "urlCheck": true
+  }
+}
